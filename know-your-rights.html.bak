@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights</title>
+<meta name="description" content="Know your rights when a debt buyer files a claim in bankruptcy. FDCPA protections, challenging stale claims, statute of limitations, pro...">
+<link rel="canonical" href="https://debtbuyerrights.org/know-your-rights.html">
+<meta property="og:title" content="Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights">
+<meta property="og:description" content="Know your rights when a debt buyer files a claim in bankruptcy. FDCPA protections, challenging stale claims, statute of limitations, pro...">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://debtbuyerrights.org/know-your-rights.html">
+<meta property="og:site_name" content="debtbuyerrights.org">
+<meta property="og:image" content="https://debtbuyerrights.org/og-image.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Your Rights When a Debt Buyer Files a Claim in Bankruptcy - Complete Guide - Debtbuyerrights">
+<meta name="twitter:description" content="Know your rights when a debt buyer files a claim in bankruptcy. FDCPA protections, challenging stale claims, statute of limitations, pro...">
+<meta name="twitter:image" content="https://debtbuyerrights.org/og-image.svg">
+<meta name="theme-color" content="#0d1117">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<!-- BTN:GA4:START -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
+  gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<!-- BTN:GA4:END -->
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Your Rights When a Debt Buyer Files a Claim in Bankruptcy", "datePublished": "2026-04-04", "dateModified": "2026-04-04", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can a debt buyer file a proof of claim in my bankruptcy case?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Under Bankruptcy Rule 3001, any entity that holds a claim against the debtor may file a proof of claim. This includes debt buyers who purchased the debt from the original creditor or another debt buyer. However, the debt buyer must attach supporting documentation - including evidence of the assignment chain showing they actually own the debt. A proof of claim filed without adequate documentation can be challenged through an objection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a debt buyer and the original creditor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The original creditor (e.g., a credit card company or medical provider) extended the credit or provided the service. A debt buyer is a third party that purchased the debt - typically for pennies on the dollar - after the original creditor charged it off. Debt buyers include companies like Midland Credit Management, Portfolio Recovery Associates, LVNV Funding, and Encore Capital Group. The debt buyer steps into the shoes of the original creditor but may have less documentation and weaker evidence of the debt's validity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I object to a debt buyer's proof of claim in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "File a written objection with the bankruptcy court before the claims objection deadline. Your objection should challenge specific deficiencies: lack of documentation, incomplete assignment chain, incorrect amount, stale or time-barred debt, or failure to comply with Bankruptcy Rule 3001(c). Once you file an objection, the debt buyer has the burden to prove the claim is valid. The court will schedule a hearing. If the debt buyer cannot produce adequate evidence, the claim is disallowed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the statute of limitations matter for debt claims in bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. While a creditor can technically file a proof of claim on time-barred debt (the Supreme Court ruled in Midland Funding v. Johnson that doing so does not violate the FDCPA), the debtor can object to the claim on statute of limitations grounds. Many courts will disallow stale claims. Additionally, some courts have sanctioned debt buyers for filing large numbers of stale claims as an abusive litigation practice. Always check your state's statute of limitations for the type of debt at issue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What documentation must a debt buyer provide with their proof of claim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Under Bankruptcy Rule 3001(c), a proof of claim must include: (1) the name of the entity from whom the claim was acquired, (2) the date of the last transaction or last payment, (3) the original account number, (4) the charge-off date, and (5) an itemization of interest, fees, and charges since the last statement. For claims based on an open-end credit agreement, a copy of the agreement or the last account statement must be attached. Missing any of these elements is grounds for an objection."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://debtbuyerrights.org"},
+        {"@type": "ListItem", "position": 2, "name": "Know Your Rights", "item": "https://debtbuyerrights.org/know-your-rights.html"}
+      ]
+    }
+  ]
+}
+</script>
+<style>:root{--bg:#0d1117;--surface:#151b23;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149;--yellow:#e3a835}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}header h1{font-size:2.2rem;margin-bottom:.5rem}header .subtitle{color:var(--text-muted);font-size:1.1rem}nav.breadcrumb{padding:1rem 0;font-size:.9rem}.content-section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;border-bottom:1px solid var(--border);padding-bottom:.5rem}.content-section h3{color:var(--text);font-size:1.1rem;margin:1.25rem 0 .5rem}.content-section p{margin-bottom:1rem}.content-section p:last-child{margin-bottom:0}.content-section ul,.content-section ol{margin:.75rem 0 1rem 1.5rem}.content-section li{margin-bottom:.4rem;font-size:.95rem}.alert-box{background:var(--surface);border:1px solid var(--border);border-left:4px solid var(--red);border-radius:0 8px 8px 0;padding:1rem 1.5rem;margin:1rem 0}.alert-box p{margin:0;font-size:.95rem}.info-box{background:var(--surface);border:1px solid var(--border);border-left:4px solid var(--accent);border-radius:0 8px 8px 0;padding:1rem 1.5rem;margin:1rem 0}.info-box p{margin:0;font-size:.95rem}.green-box{background:var(--surface);border:1px solid var(--border);border-left:4px solid var(--green);border-radius:0 8px 8px 0;padding:1rem 1.5rem;margin:1rem 0}.green-box p{margin:0;font-size:.95rem}.faq-section{margin:2rem 0}.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}.faq-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);border:2px solid var(--accent);border-radius:12px;padding:2rem;text-align:center;margin:2rem 0}.cta-box p{font-size:1.1rem;margin-bottom:1rem}.btn{display:inline-block;background:var(--accent);color:#0d1117;padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}.btn:hover{opacity:.9;text-decoration:none}.about-data{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}.network-footer strong{color:var(--text)}.network-footer .links{margin:1rem 0;line-height:2}.network-footer .links a{margin:0 .5rem}.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}header h1{font-size:1.6rem}}</style>
+
+<link rel="alternate" hreflang="en" href="https://debtbuyerrights.org/know-your-rights.html">
+<link rel="alternate" hreflang="es" href="https://debtbuyerrights.org/know-your-rights-es.html">
+</head>
+<body>
+<header><h1>Your Rights When a Debt Buyer Files a Claim</h1><p class="subtitle">What you can challenge, how to object, and the protections the law gives you</p></header>
+<div class="container">
+<nav class="breadcrumb"><a href="/">Home</a> &raquo; Know Your Rights</nav>
+<main id="main-content">
+
+<div class="content-section">
+  <h2>Debt Buyers vs. Original Creditors</h2>
+  <p>When a credit card company, medical provider, or other lender gives up on collecting a debt, they often sell it to a <strong>debt buyer</strong> - a company whose entire business model is purchasing defaulted debts for pennies on the dollar and then collecting the full face value.</p>
+  <p>Major debt buyers include Midland Credit Management, Portfolio Recovery Associates (PRA), LVNV Funding, Encore Capital Group, and Cavalry SPV. These companies file millions of proofs of claim in bankruptcy cases every year.</p>
+  <p>The critical difference: the original creditor had a direct relationship with you and has complete records. A debt buyer purchased a spreadsheet of account data - often with incomplete records, missing account agreements, and no proof of the original terms.</p>
+  <div class="info-box">
+    <p><strong>Key fact:</strong> Debt portfolios are typically purchased for 4-7 cents on the dollar for credit card debt and 1-3 cents for <a href="https://medicaldebtbankruptcy.com/" title="medical debt">medical debt</a>. When a debt buyer files a $10,000 claim in your bankruptcy, they may have paid $400-$700 for it.</p>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>The Assignment Chain - Who Actually Owns the Debt?</h2>
+  <p>Before a debt buyer can enforce a claim against you, they must prove they actually own it. The <strong>assignment chain</strong> is the documented trail showing how the debt moved from the original creditor to the current holder. This may involve multiple transfers:</p>
+  <ol>
+    <li>Original creditor sells to Debt Buyer A (first assignment)</li>
+    <li>Debt Buyer A sells to Debt Buyer B (second assignment)</li>
+    <li>Debt Buyer B files a <a href="https://1328f.com/glossary.html#claim" title="proof of claim">proof of claim</a> in your bankruptcy</li>
+  </ol>
+  <p>Each link in the chain requires a valid assignment document. If any link is missing or defective, the debt buyer cannot prove standing to collect.</p>
+  <div class="alert-box">
+    <p><strong>Common problem:</strong> Debt buyers frequently cannot produce complete assignment chains. Debts are sold in bulk portfolios containing thousands of accounts, and the assignment documents often reference the portfolio generically rather than your specific account. Challenge this.</p>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>Proof of Claim Requirements - What They Must Provide</h2>
+  <p>Under <strong>Bankruptcy Rule 3001(c)</strong>, a <a href="https://1328f.com/glossary.html#claim" title="proof of claim">proof of claim</a> filed by a debt buyer must include specific documentation:</p>
+  <ul>
+    <li><strong>Name of the entity</strong> from whom the debt was acquired</li>
+    <li><strong>Date of the last transaction</strong> or last payment on the account</li>
+    <li><strong>Original account number</strong> (last 4 digits may be redacted)</li>
+    <li><strong>Charge-off date</strong> and amount</li>
+    <li><strong>Itemization</strong> of interest, fees, and charges accrued since the last statement</li>
+    <li>For open-end credit: a copy of the <strong>credit agreement</strong> or last account statement</li>
+    <li>Evidence of the <strong>assignment chain</strong> documenting transfer of ownership</li>
+  </ul>
+  <p>Under <strong>Bankruptcy Rule 3001(c)(2)(D)</strong>, if the claim is based on an open-end credit agreement and the claimant does not have a copy, they must explain why and describe the efforts made to obtain it.</p>
+  <div class="green-box">
+    <p><strong>Your leverage:</strong> A proof of claim that fails to include required documentation under Rule 3001(c) loses its presumption of validity. The burden then shifts - the debt buyer must affirmatively prove the claim is valid rather than you having to disprove it.</p>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>How to Object to a Debt Buyer's Claim</h2>
+  <h3>Step 1: Review Every Proof of Claim</h3>
+  <p>Check the claims register in your case (available on <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a> or from your attorney). For each claim filed by a debt buyer, review:</p>
+  <ul>
+    <li>Is the amount correct? Does it match what you owed?</li>
+    <li>Is the credit agreement attached? Is it yours?</li>
+    <li>Is the assignment chain complete?</li>
+    <li>Does the claim include the required itemization?</li>
+    <li>Has the statute of limitations expired on the underlying debt?</li>
+  </ul>
+
+  <h3>Step 2: File a Written Objection</h3>
+  <p>File your objection with the bankruptcy court before the claims objection deadline. Your objection should specifically identify:</p>
+  <ul>
+    <li>The claim number and claimant name</li>
+    <li>Each deficiency (missing documentation, broken chain, wrong amount, stale debt)</li>
+    <li>The legal basis for each objection (Rule 3001(c), state statute of limitations, etc.)</li>
+    <li>A request that the claim be disallowed or reduced</li>
+  </ul>
+
+  <h3>Step 3: Attend the Hearing</h3>
+  <p>The court will schedule a hearing on your objection. At the hearing:</p>
+  <ul>
+    <li>The <strong>burden of proof shifts to the debt buyer</strong> once you file a valid objection</li>
+    <li>The debt buyer must produce evidence proving the claim</li>
+    <li>Many debt buyers default - they do not show up or produce documentation</li>
+    <li>If the debt buyer cannot meet their burden, the claim is disallowed</li>
+  </ul>
+</div>
+
+<div class="content-section">
+  <h2>Statute of Limitations on Debt</h2>
+  <p>Every state has a statute of limitations (SOL) on debt collection. Once the SOL expires, the debt is "time-barred" - it still exists but cannot be legally enforced through a lawsuit. Common statutes of limitations:</p>
+  <ul>
+    <li><strong>Credit card debt:</strong> 3-6 years in most states (varies by state)</li>
+    <li><strong><a href="https://medicaldebtbankruptcy.com/" title="medical debt">Medical debt</a>:</strong> 3-6 years in most states</li>
+    <li><strong>Written contracts:</strong> 4-10 years depending on state</li>
+    <li><strong>Oral agreements:</strong> 2-6 years depending on state</li>
+  </ul>
+  <p>The SOL clock typically starts from the date of last payment or last account activity. Check your state's specific statute at <a href="https://debtstatuteoflimitations.com">debtstatuteoflimitations.com</a>.</p>
+</div>
+
+<div class="content-section">
+  <h2>Midland Funding v. Johnson (2017) - What It Means for You</h2>
+  <p><em>Midland Funding, LLC v. Johnson</em>, 581 U.S. 224 (2017), was a Supreme Court case addressing whether filing a proof of claim on time-barred debt in bankruptcy violates the FDCPA.</p>
+  <p><strong>The ruling:</strong> The Supreme Court held 5-3 that filing a proof of claim on stale debt in bankruptcy does NOT violate the FDCPA. The Court reasoned that bankruptcy has its own system for handling invalid claims (the claims objection process) and that the FDCPA was not designed to police the bankruptcy claims process.</p>
+  <p><strong>What this means for you:</strong></p>
+  <ul>
+    <li>Debt buyers <em>can</em> file claims on old, expired debts without FDCPA liability</li>
+    <li>YOU must actively object - if you do nothing, the claim may be allowed</li>
+    <li>The burden is on you (or your attorney) to review claims and file objections</li>
+    <li>This makes claim review one of the most important tasks in any bankruptcy case</li>
+  </ul>
+  <div class="alert-box">
+    <p><strong>After Midland:</strong> debt buyers have even less incentive to self-police their claims. They can file on ancient debts knowing there is no FDCPA penalty. Your defense is the objection process - use it.</p>
+  </div>
+</div>
+
+<div class="content-section">
+  <h2>FDCPA Protections That Still Apply</h2>
+  <p>While <em>Midland</em> limited FDCPA claims in the bankruptcy context, the <a href="/fdcpa-protections.html">FDCPA</a> still protects you in many ways:</p>
+  <ul>
+    <li><strong>Pre-filing collection:</strong> All FDCPA protections apply to collection activity before bankruptcy is filed</li>
+    <li><strong><a href="https://automaticstay.org/" title="automatic stay">Automatic stay</a> violations:</strong> Collecting after your bankruptcy is filed violates both the <a href="https://automaticstay.org">automatic stay</a> (11 U.S.C. 362) and may violate the FDCPA</li>
+    <li><strong>Misrepresentation:</strong> A debt buyer that misrepresents the amount owed, the identity of the creditor, or the character of the debt on a proof of claim may still face sanctions</li>
+    <li><strong>Post-discharge collection:</strong> Attempting to collect a discharged debt violates the <a href="https://dischargeinjunction.com/" title="discharge injunction">discharge injunction</a> (11 U.S.C. 524) and the FDCPA</li>
+  </ul>
+</div>
+
+<div class="content-section">
+  <h2>Why This Matters in Chapter 13</h2>
+  <p>In a <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> case, every dollar paid to a debt buyer on an invalid claim is a dollar NOT going to your legitimate creditors or back to you. If a debt buyer files a $5,000 claim based on stale debt you do not owe, and it goes unchallenged:</p>
+  <ul>
+    <li>Your <a href="https://chapter13plan.org/" title="Chapter 13 plan">Chapter 13 plan</a> pays the debt buyer that $5,000 (or a percentage of it)</li>
+    <li>Your plan may last longer than necessary to accommodate the extra debt</li>
+    <li>Your legitimate creditors receive less because the pot is diluted</li>
+    <li>You may pay higher total plan payments over the life of the plan</li>
+  </ul>
+  <p>Objecting to invalid claims is not just your right - it directly affects the cost and duration of your bankruptcy.</p>
+</div>
+
+<div class="faq-section"><h2>Frequently Asked Questions</h2>
+  <div class="faq-item"><h3>Can a debt buyer file a claim on debt I do not owe?</h3><p>Yes, and they frequently do. Debt portfolios contain errors. You must review every claim and object to any that are incorrect, undocumented, or time-barred. If you do not object, the claim may be treated as valid.</p></div>
+  <div class="faq-item"><h3>What is an assignment chain?</h3><p>The documented trail of ownership from the original creditor through each subsequent purchaser to the current debt buyer. Each transfer requires a valid assignment. Missing links are grounds for objection.</p></div>
+  <div class="faq-item"><h3>Can I object to a debt buyer's claim myself?</h3><p>In theory, yes, but claims objections involve procedural rules and legal standards. Many bankruptcy attorneys handle claims objections as part of their representation. If yours does not, ask why.</p></div>
+  <div class="faq-item"><h3>What happens if I object and the debt buyer does not respond?</h3><p>If the debt buyer fails to respond to your objection or appear at the hearing, the court will typically sustain your objection and disallow the claim. Many debt buyers default on objections because the cost of litigation exceeds what they paid for the debt.</p></div>
+  <div class="faq-item"><h3>Does the FDCPA still protect me in bankruptcy after Midland v. Johnson?</h3><p>Midland only addressed proof of claim filings. The FDCPA still applies to pre-filing collection, <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> violations, misrepresentation, and post-discharge collection attempts.</p></div>
+</div>
+
+<div class="cta-box"><p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p><a href="https://1328f.com?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network" class="btn">Free Discharge Screener</a></div>
+
+<div style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides Across the Network</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+    <li><a href="https://bankruptcymill.org/red-flags.html" style="color:#58a6ff;text-decoration:none">15 Red Flags of a Bankruptcy Mill</a></li>
+    <li><a href="https://mybankruptcylawyerwontcallback.com/what-to-do.html" style="color:#58a6ff;text-decoration:none">When Your Lawyer Won't Call Back</a></li>
+    <li><a href="https://meanstest.org/vocabulary.html" style="color:#58a6ff;text-decoration:none">Means Test Vocabulary</a></li>
+    <li><a href="https://brunnertest.org/student-loan-terms.html" style="color:#58a6ff;text-decoration:none">Student Loan Bankruptcy Terms</a></li>
+    <li><a href="https://debtstatuteoflimitations.com" style="color:#58a6ff;text-decoration:none">Debt Statute of Limitations</a></li>
+  </ul>
+</div>
+
+<div class="about-data"><strong>About This Data:</strong> Content based on federal bankruptcy law (Title 11, U.S. Code), the Fair Debt Collection Practices Act (15 U.S.C. 1692), Federal Rules of Bankruptcy Procedure, and <em>Midland Funding, LLC v. Johnson</em>, 581 U.S. 224 (2017). This is educational content, not legal advice.</div>
+
+</main>
+</div>
+<div style="background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:2rem auto 1rem">
+<p style="color:#e6edf3;margin:0 0 0.5rem;font-size:0.95rem">Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.</p>
+<a href="https://github.com/sponsors/openbankruptcyproject" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s" onmouseover="this.style.background='#9e2c6f'" onmouseout="this.style.background='#bf3989'">&#9829; Sponsor</a>
+</div>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on debt buyer claims in bankruptcy:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/rules/frbp/rule_3001" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">FRBP Rule 3001 - Proof of Claim</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-V" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Fair Debt Collection Practices Act</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - full text</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/consumer-tools/debt-collection/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">CFPB: Debt Collection Tools</a><br><span style="color:#7d8590;font-size:0.8rem">Complaints and sample letters</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://supreme.justia.com/cases/federal/us/581/224/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Midland Funding v. Johnson (2017)</a><br><span style="color:#7d8590;font-size:0.8rem">Full Supreme Court opinion</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.nclc.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">National Consumer Law Center</a><br><span style="color:#7d8590;font-size:0.8rem">Consumer protection resources</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+  </ul>
+</div>
+
+<!-- BOOST-TOP10 internal links (boost_internal_links.py) -->
+<div class="boost-top10" style="max-width:820px;margin:2rem auto;padding:1.5rem;background:#0d1117;border:1px solid #238636;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.05rem;margin:0 0 0.75rem 0">You May Also Find Helpful</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=debtbuyerrights.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=debtbuyerrights.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://ceaseanddesistdebt.com/?utm_source=debtbuyerrights.org&utm_medium=boost-top10&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Cease and Desist Letters for Debt Collectors</a> <span style="color:#7d8590;font-size:0.8rem">-- ceaseanddesistdebt.com</span></li>
+  </ul>
+</div>
+<!-- BTN:FOOTER:START -->
+<footer class="network-footer" role="contentinfo"><p><strong>Part of the Bankruptcy Transparency Network</strong></p><div class="links"><a href="https://1328f.com?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a> <a href="https://openbankruptcyproject.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a> <a href="https://chapter7vs13.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Ch.7 vs Ch.13</a> <a href="https://automaticstay.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Automatic Stay</a> <a href="https://meanstest.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Means Test</a> <a href="https://brunnertest.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Brunner Test</a> <a href="https://bankruptcymill.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Bankruptcy Mill</a></div><p class="disclaimer">Free bankruptcy education. Not legal advice. A project of the <a href="https://openbankruptcyproject.org?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>, a 501(c)(3) nonprofit.</p><p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=debtbuyerrights.org&utm_medium=referral&utm_campaign=btn-network">Terms</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<!-- BTN:FOOTER:END -->
+<script src="/btn-engage.js" defer></script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
+</body>
+</html>
